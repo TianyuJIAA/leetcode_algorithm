@@ -8,7 +8,7 @@ import java.util.Arrays;
      * 请你合并 nums2 到 nums1 中，使合并后的数组同样按 非递减顺序 排列。
      * 复杂度要求：O(m + n)
      **/
-public class mergeTwoArray {
+public class MergeTwoArray {
     public static void main(String[] args) {
         int[] nums1 = new int[]{1,2,3,0,0,0};
         int[] nums2 = new int[]{2,5,6};
